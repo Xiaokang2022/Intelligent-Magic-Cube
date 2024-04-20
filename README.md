@@ -44,6 +44,12 @@ Run the `main.py`, and then, have fun!😁
 | :-------: | :----: | :-------: | :-----: | :-------: | :-----------------------: |
 | Chebyshev | Euclid | Manhattan | Hamming | Minkowski | Ideal evaluation function |
 
+### Customized actions
+
+|   L   |   R   |   U   |   D   |   F   |   B   |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Left  | Right |  Up   | Down  | Front | Back  |
+
 ### Some operations
 
 * Hold down the left mouse button and drag to rotate the Rubik's Cube;
