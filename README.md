@@ -10,7 +10,7 @@ This program is implemented by `tkinter` in combination with the third-party lib
 
 ### Before use
 
-Make sure your Python version is **3.8** or greater.
+Make sure your Python version is **3.12** or greater.
 
 ### Install dependency
 
