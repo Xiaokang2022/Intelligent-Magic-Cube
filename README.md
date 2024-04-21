@@ -16,14 +16,14 @@ Make sure your Python version is **3.12** or greater.
 
 Install the third-party library tkintertools:
 
-```bash
-pip install tkintertools=2.6.21.1
+```sh
+pip install tkintertools==2.6.21.1
 ```
 
 or
 
-```bash
-pip install -r requirement.txt
+```sh
+pip install -r requirements.txt
 ```
 
 ### One last step
