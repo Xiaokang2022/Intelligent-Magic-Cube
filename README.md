@@ -6,6 +6,14 @@ A variety of intelligent search algorithms visually restore the 3D Magic Cube.
 
 This program is implemented by `tkinter` in combination with the third-party library [`tkintertools`](https://github.com/Xiaokang2022/tkintertools). `tkintertools` is a third-party library developed by me, I hope you will support me a lot!
 
+<a href="https://star-history.com/#Xiaokang2022/Intelligent-Magic-Cube&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Xiaokang2022/Intelligent-Magic-Cube&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Xiaokang2022/Intelligent-Magic-Cube&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Xiaokang2022/Intelligent-Magic-Cube&type=Date" />
+ </picture>
+</a>
+
 ## How to use
 
 ### Before use
